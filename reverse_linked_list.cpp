@@ -2,7 +2,6 @@
           Program: daily6 reverse a linked list
           Author: Mark Priscella
           Date: 2/7/18
-          Time Spent: 1 hour 15 minutes
           Purpose: The purpose of this program is to reverse a linked
           list.
 ************************************************************************/

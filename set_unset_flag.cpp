@@ -1,7 +1,6 @@
 /****************************************************************
           Author: Mark Priscella
           Date: 1/30/2018
-          Effort: 30 minutes
           Purpose: To create a binary flagging system using 
           unsigned binary integers. 
  ****************************************************************/
